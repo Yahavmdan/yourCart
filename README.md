@@ -1,6 +1,8 @@
 # yourCart
 mini application of a shopping cart built in React
 
+in this project i practice react, controlling and changing component state, two way binding and maping state.
+
 steps to run locally:
 
 1.cd cart
